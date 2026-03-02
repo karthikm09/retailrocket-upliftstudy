@@ -1,0 +1,23 @@
+name: retailrocket
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - requests
+  - tqdm
+  - ipykernel
+  - pandas
+  - scikit-learn
+  - seaborn
+  - matplotlib
+  - pyyaml
+  - scipy
+  - numpy
+  - pyarrow
+  - jupyterlab
+  - plotly
+  - xgboost
+  - lightgbm
+  - statsmodels
+prefix: /home/karth-local/miniconda3/envs/retailrocket
